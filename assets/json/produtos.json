@@ -1,0 +1,8 @@
+[
+  { "image": "assets/img/carro.jpg", "name": "carro", "price": "13000" },
+  { "image": "assets/img/moto.jpeg", "name": "Moto", "price": "5000" },
+  { "image": "assets/img/skate.jpg", "name": "Skate", "price": "1200" },
+  { "image": "assets/img/patins.jpg", "name": "Patins", "price": "1500" },
+  { "image": "assets/img/triciculo.png", "name": "Triciculo", "price": "7000" },
+  { "name": "Mouse", "price": "1200", "image": "assets/img/download.jpeg" }
+]
